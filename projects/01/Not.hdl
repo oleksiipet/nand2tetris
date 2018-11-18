@@ -8,6 +8,13 @@
  * out = not in
  */
 
+ /**
+  *
+  *       ----|NAND
+  * in---|    |NAND---out
+  *       ----|NAND
+  */
+
 CHIP Not {
     IN in;
     OUT out;
